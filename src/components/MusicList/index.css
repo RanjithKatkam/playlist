@@ -1,0 +1,44 @@
+.list {
+  display: flex;
+  margin-bottom: 30px;
+}
+
+.img {
+  width: 14%;
+}
+
+.song-name {
+  color: #fff;
+  font-family: 'Bree Serif';
+  font-size: 20px;
+  margin-left: 25px;
+}
+
+.genre {
+  color: #3b82f6;
+  font-family: 'Serif';
+  font-size: 20px;
+  margin-left: 25px;
+  margin-bottom: 0px;
+}
+
+.div {
+  margin-left: auto;
+  margin-right: 30px;
+  display: flex;
+  align-items: center;
+}
+
+.duration {
+  color: #fff;
+  font-family: 'Roboto';
+  font-size: 22px;
+  margin-right: 20px;
+}
+
+.button {
+  border: none;
+  cursor: pointer;
+  background-color: transparent;
+  outline: none;
+}
